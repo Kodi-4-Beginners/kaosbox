@@ -1,0 +1,6 @@
+1,51.253324,5.734753,,,"#","Langs stoep bij speeltuintje aan middelstestraat achter Jumbo","toilet"
+2,51.256374,5.736848,,,"#","Langs straat bij speeltuintje aan Wilhelmina Smitsstraat","toilet"
+3,5.1256873,"5.736848",,,"#","Tussen Wilhelmina Smitsstraat en Aletta Jacobsstraat (Centrale park Vrouwenhof)","ehbo"
+4,"5.1252511","5.734346",,,"#","Schoolplein BS Leuken","ehbo"
+5,"51.252612","5.734997",,,"#","Commercieel plein","commercieel"
+6,"51.256537","5.737189",,,"#","Commercieel plein","commercieel"
